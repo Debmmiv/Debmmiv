@@ -1,14 +1,12 @@
 # 👋 About Me
-I’m an IT student exploring the world of programming and development. I enjoy building simple projects, learning new concepts, and improving my foundation as I work toward becoming a well‑rounded developer.
+I’m an IT student exploring programming and development. I work on simple projects, study new concepts, and focus on strengthening my foundation as I move toward becoming a well‑rounded developer.
 
 
 ### 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.deb5/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/johndeb011)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cinco.johndave87@gmail.com)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.deb5/)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/johndeb011)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cinco.johndave87@gmail.com)
 ---
 
 ## 🧰 What I Use
