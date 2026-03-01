@@ -4,18 +4,21 @@ I’m an IT student exploring the world of programming and development. I enjoy 
 ---
 
 # 📘 What I’m Currently Learning  
-- 💻 Java  
-- 🐍 Python  
 - 🌐 HTML & CSS  
-- 🗄️ SQL  
+- 🗄️ MYSQL/PostgreSQL 
 - 🖥️ Building **GUI** applications  
+- 📜 JavaScript
+- 🌐 Laravel
+  
 
 ---
 
 # 🎯 What I Want to Learn Next  
-- 🔧 Intermediate backend skills (APIs, authentication, server-side logic)  
-- 📜 JavaScript  
-- ⚙️ Web/app frameworks like **React** or **Spring Boot**  
+- 🔧 Advance backend skills (APIs, authentication, server-side logic)  
+- ⚙️ Web/app frameworks like **React** or **Spring Boot**
+- 🐍 Django
+- 🟩 Node.js
+- 🍃 MongoDB
 
 ---
 
