@@ -1,35 +1,6 @@
 # 👋 About Me
 I’m an IT student exploring the world of programming and development. I enjoy building simple projects, learning new concepts, and improving my foundation as I work toward becoming a well‑rounded developer.
 
----
-
-# 📘 What I’m Currently Learning  
-- 🌐 HTML & CSS  
-- 🗄️ MYSQL/PostgreSQL 
-- 🖥️ Building **GUI** applications  
-- 📜 JavaScript
-- 🌐 Laravel
-  
-
----
-
-# 🎯 What I Want to Learn Next  
-- 🔧 Advance backend skills (APIs, authentication, server-side logic)  
-- ⚙️ Web/app frameworks like **React** or **Spring Boot**
-- ⚙️ Learn Node.js to improve my backend logic using JavaScript.
-- 🍃 Study MongoDB to work with flexible NoSQL databases.
-- 🐍 Explore Django to gain experience with a powerful Python backend framework.
-
----
-
-# 🚀 My Goals  
-- 📚 Strengthen my core programming fundamentals  
-- 🧩 Build more hands‑on projects  
-- 🔥 Improve both frontend and backend development skills  
-- 🌍 Contribute to open‑source and grow my experience  
-
----
-
 
 ### 🌐 Socials
 
