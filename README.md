@@ -16,9 +16,9 @@ I’m an IT student exploring the world of programming and development. I enjoy 
 # 🎯 What I Want to Learn Next  
 - 🔧 Advance backend skills (APIs, authentication, server-side logic)  
 - ⚙️ Web/app frameworks like **React** or **Spring Boot**
-- 🐍 Django
-- 🟩 Node.js
-- 🍃 MongoDB
+- ⚙️ Learn Node.js to improve my backend logic using JavaScript.
+- 🍃 Study MongoDB to work with flexible NoSQL databases.
+- 🐍 Explore Django to gain experience with a powerful Python backend framework.
 
 ---
 
